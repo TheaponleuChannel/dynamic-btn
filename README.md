@@ -186,4 +186,4 @@ This library follows [Semantic Versioning](https://semver.org/):
 
 ## License
 
-MIT © Ecoinsoft
+MIT © PongleuDEvelopment 2026
